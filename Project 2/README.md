@@ -39,4 +39,4 @@ Berikut adalah dokumentasi selama pengerjaan proyek ini
 
 ### Video Penjelasan
 
-Video penjelasan terkait dengan proyek ini dapat dilihat pada [link berikut](https://youtu.be/oH-x2QYfXsM?si=RSHeB1j34df-oyhb)
+Video penjelasan terkait dengan proyek ini dapat dilihat pada [link berikut](https://youtu.be/h2TFxEySp8Q)
